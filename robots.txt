@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-SITE.example/sitemap.xml
+Sitemap: https://jabseh2-tech.github.io/https-github.com-jabseh2-tech-altakafur-public-site/sitemap.xml
